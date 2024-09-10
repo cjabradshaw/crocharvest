@@ -1,4 +1,5 @@
 # Sustainable harvest of saltwater crocodiles in the Northern Territory of Australia
+<img align="right" src="www/croc.png" alt="Crocodylus porosus" width="400" style="margin-top: 20px">
 
 R code accompanies paper:<br>
 <br>
